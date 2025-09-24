@@ -1,0 +1,32 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.env
+.venv/
+env/
+venv/
+
+# GTK
+*.o
+*.so
+*.a
+*.la
+*.log
+*.dSYM/
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
